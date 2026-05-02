@@ -1,3 +1,12 @@
-﻿Console.WriteLine("Hello, World!");
-//test
-//test2
+﻿using System;
+
+namespace Test_Git
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+        }
+    }
+}
