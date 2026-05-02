@@ -1,4 +1,8 @@
-﻿using System;
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello Nam");
+//test
+//test2
+//using System;
 
 namespace Test_Git
 {
